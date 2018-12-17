@@ -4,7 +4,7 @@ O projeto proposto é um sistema de equalização sonora automática utilizando 
 #### Figura 1 - Esquema inicial do projeto.
 ![Figura 1](https://lh4.googleusercontent.com/tIdZ3I_FJfzY3xPivv-lPB3Tnr8DXrGFGIQOxOWS9pPV0dY6oB0F2nz3BveMW-ap26hsc4lCscbKmwfq6iKm=w1360-h608-rw)
 
-<i>A descrição completa do projeto está no arquivo relatorio_final.PDF</i>
+####<i>A descrição completa do projeto está no arquivo [relatorio_final.pdf](https://github.com/BroeringFelipe/automatic-equalizer/blob/master/Relat%C3%B3rio%20do%20Projeto/Relat%C3%B3rio%20Final.pdf)</i>
 
 ### Bibliografia
 ANALOG DEVICES: <b>Programmable Gain Amplifiers</b>. 2018. Disponível em: <https://www.analog.com/en/products/amplifiers/specialty-amplifiers/programmable-gain-amplifiers.html>. Acesso em: 14 dez. 2018.
